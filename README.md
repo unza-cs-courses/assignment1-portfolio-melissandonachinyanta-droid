@@ -127,23 +127,31 @@ Before submitting, verify:
 
 ## Your Information
 
-**Name:** [Your Name]
-**Student ID:** [Your Student ID]
-**Design Theme:** [Describe your portfolio theme/style]
-
+**Name:** Melissa Ndona Chinyanta
+**Student ID:** 2022012721
+**Design Theme:** A technical portfolio that is built on modular CSS and responsive design principles demostrating a professional user interface experience across all devices.
 ### CSS Techniques Used
 - [ ] CSS Custom Properties
 - [ ] Flexbox
 - [ ] CSS Grid
 - [ ] Media Queries
-- [ ] Other: _______________
+- [ ] Other: Box sizing
+             Transitions and Hovers
+
 
 ### Challenges & Solutions
-[Describe any challenges you faced and how you solved them]
+The primary challenge during this lab was ensuring the portfolio layout remained aligned and readable on smaller mobile screens.Initially content was overflowing the layout due to fixed dimensions and horizontal spacing I resolved this by applying Media Queries to stack header elements and navigation links vertically for mobile usability and Box-sizing border box was applied so that padding did not push elements off the edge of the screen.
 
 ### Credits
-[List any images, fonts, or resources used with attribution]
+IMAGES
+myphoto.jpg - A self-taken photo
+project1,project2,project3, - Screenshots of my projects
 
+FONTS
+Systems fonts such as Arial and sans-serif were used.
+
+RESOURCES
+Colors ,Layout and Color palette was designed by me using CSS.
 ---
 
 ## Academic Integrity
